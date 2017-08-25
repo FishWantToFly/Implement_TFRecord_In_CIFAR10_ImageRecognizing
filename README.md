@@ -24,7 +24,7 @@ In conclusion, the result is that the image dataset's rewolution is too low, lea
 Solution: replace with image for higher res	olution
 
 
-train.tfrecords_v6：try to collect 2 classes images with size biger than
+train.tfrecords_v6：try to collect 2 classes images with size biger than 70 KB
 
 
 ========================================================
